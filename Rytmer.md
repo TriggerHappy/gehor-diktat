@@ -15,14 +15,15 @@ f2 f2 ff ff | ff1/2f1/2 f2 f2 z2 | zf ff ff ff | f8 |]
 T: Rytm 2
 M:4/4
 K: key=perc stafflines=1 middle=f
-fff
+L:1/16
+ffzf ffzf f2ff| fff2 f4 f4 f4 | f3f f3f fff2 f4 |]
 :::
 
 :::abc
 T: Rytm 3
 M:4/4
 K: key=perc stafflines=1 middle=f
-fff
+3[fff]
 :::
 
 :::abc
