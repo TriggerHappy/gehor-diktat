@@ -2,7 +2,7 @@
 ---
 
 # Rytmdiktat
-Här nedan följer mina, Niklas Angebrand, rytmtranskriberingar:
+Här nedan följer mina, Niklas Angebrand, rytmtranskriberingar
 
 :::abc
 T: Rytm 1
