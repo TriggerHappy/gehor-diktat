@@ -16,8 +16,7 @@ CCCC CA,CF | .A2.A2 F4 | FFFF FCFA | .c2.c2 A4 | LG3C C2.A2| LG3C C4
 [1 (c8 | A4 F4 | c4 A4 | F8) :| [2 (3c2A2G2 (3c2A2G2 | F8- | F8 ||
 :::
 
-Slutet ovan är som jag uppfattar att det är menat men möjligen spelas det närmare så här:
-
+Slutet ovan är som jag uppfattar att det är menat men möjligen spelas det närmare så här (ber om ursäkt för formattering):
 :::abc
 T:Alpvisa, alternativt slut
 M: 2/4
