@@ -23,5 +23,5 @@ T:Alpvisa, alternativt slut
 M: 2/4
 K: F major
 G: Alphorn
-[2 c3/2A3/2G c3/2A3/2G | F8- | F8 ||
+[2 c3/2A3/2G c3/2A3/2G | F8- | F8 |
 :::
