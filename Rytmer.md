@@ -23,7 +23,7 @@ ffzf ffzf f2ff| fff2 f4 f4 f4 | f3f f3f fff2 f4 |]
 T: Rytm 3
 M:4/4
 K: key=perc stafflines=1 middle=f
-3[fff]
+(3fff (3fff ff ff| f2 ff ff ff | ff f2 f3f | (3fff f2 z4
 :::
 
 :::abc
