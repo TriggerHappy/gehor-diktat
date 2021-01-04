@@ -3,7 +3,7 @@
 
 # Diktat
 
-Detta är mitt diktat av den sända sången med filnamn `Lisa Stoll  Und Kapelle Schwyzergruess Wilderswill_360p.mp4`:
+Detta är mitt diktat av den sända sången med filnamn `Lisa Stoll  Und Kapelle Schwyzergruess Wilderswill_360p.mp4`
 
 :::abc
 
@@ -14,5 +14,5 @@ G: Alphorn
 CCCC CA,CF | A2A2 F4 | FFFF FCFA | c2c2 A4 | G3C C2A2| G3C C4| 
 [1,3 FCFC FCFA | c8 :| [2,4 A2c2 c2A2| F8 :|
 |: A8 | G4 F4| C4 A4 | G4 F4 |  G8 | c8| C8- | C8 | c8 | A4 G4 | c4 A4 | G8 |
-
+[1 c8 | A4 F4 | c4 F4 | F8 :| [2 (3c2A2F2 (3c2A2F2 | F8- | F8 ||
 :::
