@@ -16,7 +16,7 @@ T: Rytm 2
 M:4/4
 K: key=perc stafflines=1 middle=f
 L:1/16
-ffzf ffzf f2ff| fff2 f4 f4 f4 | f3f f3f fff2 f4 |]
+ffzf ffzf f2ff ffff| fff2 f4 f4 f4 | f3f f3f fff2 f4 |]
 :::
 
 :::abc
@@ -30,6 +30,6 @@ K: key=perc stafflines=1 middle=f
 T: Rytm 4
 M:4/4
 K: key=perc stafflines=1 middle=f
-fff
+(3Lfff (3Lfff (3fLff (3fff | (3Lfff (3Lfff (3fLff (3fff | (3Lfff (3Lfff (3fLff (3fff | f8
 :::
 
